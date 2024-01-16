@@ -5,3 +5,8 @@
 ``` C#
 string pokemon = "Purin";
 ```
+
+HOW TO EVOLVE PURIN:
+- [ ] Reach level 25.
+- [ ] Get Moon Stone.
+- [ ] Enjoy!
